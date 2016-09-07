@@ -1,5 +1,5 @@
-# CalBacks
+# Cambiar fondo de manera Alertoria
 
-- En la función anonima se tiene que agregar un parametro pues cuando lee el console.log no puede interpretar pues no tiene en sí que agregar a la function anonima, por lo cual el resultado sigue siendo el mismo que al principio. En cambio cuando se le agrega un parametro ahora si se puede agregar.
+- En este caso se está utilizando "HOISTING" el cual nos está permitiendo que en nuestro Function Statements, la función que está primero nombrada y recien realizada después funcione. Además con SetInterval() estamos dando que en "x" segundos (Estos estan definidos por el usuario) vaya cambiando a diferentes tipos de colores.   
 
-![alt txt](http://i65.tinypic.com/25a2o7p.jpg)
+![alt txt](http://i63.tinypic.com/mi17xy.jpg)
